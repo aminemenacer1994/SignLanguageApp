@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_camera_recording"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="10dp"
+    android:padding="10dp"
+    android:background="@drawable/background"
+    tools:context="com.example.n0582158.signlanguageapp.PaintCanvas">
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/paint_image">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/a"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="@dimen/icon_media_w"
+        android:layout_height="@dimen/icon_media_h"
+        android:id="@+id/next_action"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/brush"
+        android:layout_toRightOf="@+id/paint_image">
+
+        <ImageButton
+            android:id="@+id/next_action1"
+            android:layout_width="@dimen/icon_media_w"
+            android:layout_height="@dimen/icon_media_h"
+            android:background="@drawable/button_shape"
+            android:src="@mipmap/ic_fastforward"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="@dimen/icon_media_w"
+        android:layout_height="@dimen/icon_media_h"
+        android:id="@+id/back_action"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/save"
+        android:layout_toLeftOf="@+id/paint_image">
+
+        <ImageButton
+            android:id="@+id/back_action1"
+            android:layout_width="@dimen/icon_media_w"
+            android:layout_height="@dimen/icon_media_h"
+            android:background="@drawable/button_shape"
+            android:src="@mipmap/ic_fastback"/>
+
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/paint_image"
+        android:id="@+id/save">
+
+        <ImageView
+            android:layout_width="@dimen/paint_icon"
+            android:layout_height="@dimen/paint_icon"
+            android:id="@+id/save_button"
+            android:src="@mipmap/ic_save"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/brush"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/paint_image"
+        android:layout_toEndOf="@+id/paint_image">
+
+        <ImageView
+            android:layout_width="@dimen/paint_icon"
+            android:layout_height="@dimen/paint_icon"
+            android:id="@+id/paint_brush"
+            android:src="@mipmap/ic_brush"/>
+
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/canvas"
+        android:layout_below="@+id/paint_image">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/board"/>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

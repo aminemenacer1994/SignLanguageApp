@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.n0582158.signlanguageapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_start"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomePage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NumberLesson" />
+        <activity android:name=".AlphabetActivity" />
+        <activity android:name=".EmotionLession" />
+        <activity android:name=".GeneralLesson" />
+        <activity android:name=".LauncherActivity" />
+        <activity android:name=".PaintCanvas" />
+        <activity android:name=".LessonsOptions" />
+        <activity android:name=".gamesOptions" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".about" />
+        <activity android:name=".paintOptions" />
+        <activity android:name=".information1" />
+        <activity android:name=".info" />
+        <activity android:name=".TrueOrFalseAlphabet" />
+        <activity android:name=".TrueOrFalseNumbers" />
+        <activity android:name=".information" />
+        <activity android:name=".VideoList" />
+        <activity android:name=".VideoListView" />
+        <activity android:name=".videoOptions" />
+        <activity android:name=".VideoListFood" />
+        <activity android:name=".VideoListDates" />
+        <activity android:name=".VideoListColor" />
+        <activity android:name=".TrueOrFalseNumResult" />
+        <activity android:name=".TrueOrFalseLetterResult" />
+        <activity android:name=".MultipleChoiceNum" />
+        <activity android:name=".MultipleChoiceAlph"></activity>
+    </application>
+
+</manifest>

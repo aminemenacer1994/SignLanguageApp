@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Sign Language</string>
+
+
+    <string name="home">Home</string>
+
+
+    <string-array name="Languages">
+        <item>@string/english</item>
+        <item>@string/french</item>
+        <item>@string/arabic</item>
+    </string-array>
+
+
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="arabic">Arabic</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="faq">FAQ</string>
+
+    <string name="lessons">Lessons</string>
+    <string name="games">Games</string>
+    <string name="video">Video</string>
+    <string name="info">Info</string>
+    <string name="paint">Paint</string>
+
+    <string name="homepage">Home</string>
+    <string name="exit">Exit</string>
+
+    <string name="choose_language">Choose language</string>
+    <string name="about_app">About</string>
+
+    <string name="game_desc">Choose from one of the four following games below:</string>
+
+    <string name="vid_desc">Choose from one of the four following videos below:</string>
+    <string name="vid_dates">Dates</string>
+    <string name="vid_foods">Foods</string>
+    <string name="vid_animal">Animal</string>
+    <string name="Colors">Colors</string>
+
+
+    <string name="game_score">Score</string>
+    <string name="game_question">This is the letter</string>
+
+    <string name="game_result">Result was:</string>
+    <string name="game_num_res">You scored 8 out of 10</string>
+    <string name="game_play_again">Play again</string>
+    <string name="game_return">Return to games</string>
+
+    <string name="game_msg">Total amount of questions are 12</string>
+
+    <string name="paint_desc">Choose from one of the four options below to start practicing writing:</string>
+
+    <string name="about1">Our product was designed to achieve simple and effective user experience, provide basic knowledge of sign language and to enhance and improve functionality and features.</string>
+    <string name="about2">Through our observation we have identified a problem that is denying the business from achieving all its objectives and/or outcomes.</string>
+    <string name="about3">The problem is that the user isn’t frequently using the app due to lack of content available. How might we improve the app the app so that the user can be provided with the full experience and with maximum knowledge?</string>
+
+    <string name="info1">Sign language varies from country to country. Most of the country have their own sign language or share a certain sign language but, with a different dialect.</string>
+    <string name="info2">Each sign is composed of five components. Any change in them will change the entire meaning of the sign.</string>
+    <string name="info3">Sign language doesn’t only use signs to communicate. It uses facial expression, hand movement and position,gestures and body language to communicate.</string>
+    <string name="info4">Within Britain the most common form of Sign Language is called British Sign Language (BSL). BSL has it’s own grammatical structure and syntax, as a language it is not dependant nor is it strongly related to spoken English. BSL is the preferred language of around 145,000 people within the UK (2011).</string>
+
+
+    <string name="multiple_answers">Multiple answers</string>
+    <string name="true_or_false">True or false</string>
+
+    <string name="lesson_desc">Choose one of the following lessons below:</string>
+
+    <string name="alphabet">Alphabet</string>
+    <string name="number">Number</string>
+    <string name="general">General</string>
+    <string name="emotions">Emotions</string>
+
+    <string name="title_name">Tap here to begin</string>
+
+</resources>

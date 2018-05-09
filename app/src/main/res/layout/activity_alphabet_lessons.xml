@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_camera_recording"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="10dp"
+    android:padding="10dp"
+    android:background="@drawable/background"
+    tools:context="com.example.n0582158.signlanguageapp.AlphabetActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/full_screen"/>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/title_h"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/title">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/alphabet"
+            android:textSize="60dp"
+            android:textStyle="bold"
+            android:textColor="#196428"
+            android:fontFamily="casual"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="@dimen/info_icon_w"
+        android:layout_height="@dimen/info_icon_h"
+        android:layout_alignParentRight="true"
+        android:id="@+id/info">
+
+        <ImageView
+            android:fontFamily="sans-serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/infoo"
+            android:text="Alphabet"
+            android:background="@drawable/info" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/swipe_right"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/image_number">
+
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="400dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/sr"
+            android:id="@+id/sr" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/swipe_left"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/image_number">
+
+
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="400dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/sl"
+            android:id="@+id/sl" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_number"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/title">
+
+
+        <ImageView
+            android:layout_width="280dp"
+            android:layout_height="400dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/a"
+            android:id="@+id/draw" />
+
+    </RelativeLayout>
+
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_h"
+        android:id="@+id/media_controls"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/image_number">
+
+
+        <RelativeLayout
+            android:layout_width="@dimen/icon_media_w"
+            android:layout_height="@dimen/icon_media_h"
+            android:id="@+id/play_action"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true">
+
+            <ImageButton
+                android:id="@+id/play_action1"
+                android:layout_width="@dimen/icon_media_w"
+                android:layout_height="@dimen/icon_media_h"
+                android:background="@drawable/button_shape"
+                android:src="@mipmap/ic_play"/>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="@dimen/icon_media_w"
+            android:layout_height="@dimen/icon_media_h"
+            android:id="@+id/next_action"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/play_action">
+
+            <ImageButton
+                android:id="@+id/next_action1"
+                android:layout_width="@dimen/icon_media_w"
+                android:layout_height="@dimen/icon_media_h"
+                android:background="@drawable/button_shape"
+                android:src="@mipmap/ic_fastforward"/>
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="@dimen/icon_media_w"
+            android:layout_height="@dimen/icon_media_h"
+            android:id="@+id/back_action"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/play_action">
+
+            <ImageButton
+                android:id="@+id/back_action1"
+                android:layout_width="@dimen/icon_media_w"
+                android:layout_height="@dimen/icon_media_h"
+                android:background="@drawable/button_shape"
+                android:src="@mipmap/ic_fastback"/>
+
+        </RelativeLayout>
+
+
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
+
+
+

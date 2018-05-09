@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.n0582158.signlanguageapp.WelcomePage">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:id="@+id/main"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:fontFamily="casual"
+        android:layout_below="@+id/video"
+        android:textColor="#187118"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/main"
+        android:id="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/icon_start"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_name"
+        android:textSize="35dp"
+        android:id="@+id/begin"
+        android:textStyle="bold"
+        android:fontFamily="casual"
+        android:layout_below="@+id/image"
+        android:textColor="#000"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>

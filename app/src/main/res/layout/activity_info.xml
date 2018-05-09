@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.n0582158.signlanguageapp.info">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/info1"
+        android:fontFamily="sans-serif-smallcaps"
+        android:id="@+id/text1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gap"
+        android:layout_below="@+id/text1"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text2"
+        android:textSize="15dp"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="@string/info1"
+        android:layout_below="@+id/gap"
+        android:layout_alignParentStart="true" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gap1"
+        android:layout_below="@+id/text2"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text3"
+        android:layout_below="@+id/gap1"
+        android:textSize="15dp"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="@string/info4" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gap2"
+        android:layout_below="@+id/text3"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text4"
+        android:layout_below="@+id/gap2"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:textColor="#000"
+        android:text="@string/info2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gap3"
+        android:layout_below="@+id/text4"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text5"
+        android:fontFamily="casual"
+        android:textStyle="bold"
+        android:layout_below="@+id/gap3"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#000"
+        android:text="@string/info3" />
+
+
+</RelativeLayout>

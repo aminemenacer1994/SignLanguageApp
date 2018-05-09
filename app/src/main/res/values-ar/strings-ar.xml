@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="home">الصفحة الرئيسية</string>
+       <string-array name="Languages">
+    <item>English</item>
+    <item>French</item> 
+    <item>Arabic</item> 
+    </string-array>    
+
+
+    <string name="english">الإنجليزية</string>
+    <string name="french">الفرنسية</string>
+    <string name="arabic">العربية</string>
+    <string name="about">حول</string>
+    <string name="help">مساعدة</string>
+    <string name="faq">أسئلة مكررة</string>
+
+    <string name="lessons">الدروس</string> 
+    <string name="games">ألعاب</string> 
+    <string name="video">فيديو</string> 
+    <string name="info">معلومات</string>  
+    <string name="homepage">الصفحة الرئيسية</string> 
+    <string name="exit">خروج</string>  
+    <string name="game_desc">اختر أحد الألعاب التالية أدناه:</string>  
+    <string name="multiple_answers">إجابات متعددة</string> 
+    <string name="true_or_false">إجابات متعددة</string>  
+    <string name="lesson_desc">اختر أحد الدروس التالية أدناه:</string>
+
+    <string name="paint">رسم</string>
+
+    <string name="paint_desc">اختر أحد الخيارين التاليين لبدء ممارسة الكتابة:</string>
+
+    <string name="vid_desc">اختر أحد مقاطع الفيديو التالية أدناه:</string>
+    <string name="vid_dates">تواريخ</string>
+    <string name="vid_foods">الأطعمة</string>
+    <string name="vid_animal">الحيوانات</string>
+    <string name="Colors">الألوان</string>
+
+
+    <string name="game_score">النقاط</string>
+    <string name="game_question">هذه هي الحرف</string>
+
+    <string name="game_result">وكانت النتيجة:</string>
+    <string name="game_num_res">لقد سجلت 8 من أصل 10</string>
+    <string name="game_play_again">العب مرة أخرى</string>
+    <string name="game_return">العودة إلى الألعاب</string>
+
+    <string name="game_msg">إجمالي كمية الأسئلة هي 12</string>
+
+    <string name="about1">وقد تم تصميم منتجاتنا لتحقيق تجربة مستخدم بسيطة وفعالة، وتوفير المعرفة الأساسية للغة الإشارة وتعزيز وتحسين الوظائف والميزات.</string>
+    <string name="about2">من خلال ملاحظتنا حددنا مشكلة تمنع الأعمال من تحقيق جميع أهدافها و / أو النتائج.</string>
+    <string name="about3">المشكلة هي أن المستخدم لا يستخدم في كثير من الأحيان التطبيق بسبب عدم وجود المحتوى المتاح. كيف يمكننا تحسين التطبيق التطبيق بحيث يمكن توفير المستخدم مع الخبرة الكاملة ومع أقصى قدر من المعرفة؟</string>
+
+    <string name="info1">تختلف لغة الإشارة من بلد إلى آخر. معظم البلاد لديها لغة الإشارة الخاصة بها أو تبادل لغة الإشارة معينة ولكن، لهجة مختلفة.</string>
+    <string name="info2">وتتكون كل علامة من خمسة مكونات. أي تغيير فيها سيغير المعنى الكامل للعلامة.</string>
+    <string name="info3">لغة الإشارة لا تستخدم فقط علامات للاتصال. ويستخدم تعبيرات الوجه، حركة اليد والموقف، والإيماءات ولغة الجسد على التواصل.</string>
+    <string name="info4">وفي بريطانيا، يطلق على أكثر أشكال لغة الإشارة شيوعا لغة الإشارة البريطانية (بسل). بسل لديها انها بنية النحوية الخاصة وبناء الجملة، كلغة أنها لا تعتمد ولا يرتبط ارتباطا قويا اللغة الإنجليزية المنطوقة. بسل هي اللغة المفضلة من حوالي 145،000 شخص داخل المملكة المتحدة (2011).</string>
+
+    <string name="information">معلومات</string>
+    <string name="alphabet">الحروف</string>
+    <string name="number">أرقام</string>
+    <string name="general">شامل</string>
+    <string name="emotions">العواطف</string>
+
+    <string name="choose_language">اختر لغة</string>
+    <string name="about_app">شرح</string>
+
+
+    <string name="title_name">اضغط هنا للبدء</string>
+
+</resources>

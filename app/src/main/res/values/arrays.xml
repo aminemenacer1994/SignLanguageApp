@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="places">
+        <item>Numbers</item>
+        <item>Alphabet</item>
+        <item>Emotions</item>
+        <item>General</item>
+    </string-array>
+
+    <string-array name="tests">
+        <item>Multiple Choices</item>
+        <item>True or False</item>
+    </string-array>
+
+
+    <string-array name="emotions">
+        <item>angry</item>
+        <item>better</item>
+        <item>cold</item>
+        <item>excited</item>
+        <item>happy</item>
+        <item>hot</item>
+        <item>laugh</item>
+        <item>sad</item>
+        <item>upset</item>
+    </string-array>
+
+
+    <string-array name="options_nu">
+        <item>Lesson</item>
+        <item>Test</item>
+        <item>Video</item>
+    </string-array>
+
+    <string-array name="options_ap">
+        <item>Lesson</item>
+        <item>Test</item>
+        <item>Video</item>
+    </string-array>
+
+    <string-array name="options_em">
+        <item>Lesson</item>
+        <item>Test</item>
+        <item>Video</item>
+    </string-array>
+
+    <string-array name="options_ge">
+        <item>Lesson</item>
+        <item>Test</item>
+        <item>Video</item>
+    </string-array>
+
+    <string-array name="options_vid">
+        <item>Days of the week</item>
+        <item>Times of the day</item>
+        <item>Medical signs</item>
+        <item>Numbers</item>
+    </string-array>
+
+    <string-array name="options_paint">
+        <item>Numbers</item>
+        <item>Alphabet</item>
+        <item>Emotions</item>
+        <item>General</item>
+    </string-array>
+
+
+    <string-array name="paint_colors">
+        <item>Grey</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Eraser</item>
+    </string-array>
+
+
+
+
+    <string-array name="game_options">
+        <item>Numbers</item>
+        <item>Letters</item>
+    </string-array>
+
+    <string-array name="test_options_nu">
+        <item>Multiple questions</item>
+        <item>True or false</item>
+    </string-array>
+
+    <string-array name="test_options_em">
+        <item>Multiple questions</item>
+        <item>True or false</item>
+    </string-array>
+
+    <string-array name="test_options_ge">
+        <item>Multiple questions</item>
+        <item>True or false</item>
+    </string-array>
+
+
+    <string-array name="letters">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+        <item>n</item>
+        <item>o</item>
+        <item>p</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>q</item>
+        <item>r</item>
+        <item>s</item>
+        <item>t</item>
+        <item>u</item>
+        <item>v</item>
+        <item>w</item>
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+    </string-array>
+
+    <string-array name="general">
+        <item>animal</item>
+        <item>bear</item>
+        <item>bed</item>
+        <item>book</item>
+        <item>cat</item>
+        <item>goodbye</item>
+        <item>hello</item>
+        <item>house</item>
+        <item>please</item>
+        <item>thanks</item>
+    </string-array>
+
+
+
+    <string-array name="place_desc">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+
+
+</resources>

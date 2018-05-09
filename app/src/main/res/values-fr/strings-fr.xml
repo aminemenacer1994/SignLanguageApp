@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="games">Jeux</string>
+     <string name="video">Vidéo</string>   
+    <string name="info">Information</string>
+     <string name="homepage">لHomepage</string> 
+    <string name="exit">Sortie</string>  
+    <string name="game_desc">Choisissez parmi l un des deux jeux suivants:</string>
+      <string name="multiple_answers">Plusieurs réponses</string> 
+    <string name="true_or_false">Vrai ou faux</string>
+      <string name="lesson_desc">Choisissez parmi l une des leçons suivantes ci dessous:</string>  
+    <string name="alphabet">Alphabet</string> 
+    <string name="number">Nombre</string> 
+    <string name="general">General</string>
+     <string name="emotions">Emotions</string> 
+
+    <string name="paint">peindre</string>
+
+    <string name="paint_desc">Choisissez parmi l une des deux options ci dessous pour commencer à pratiquer lecriture:</string>
+
+    <string name="vid_desc">Choisissez parmi lune des deux vidéos ci-dessous:</string>
+    <string name="vid_dates">la date</string>
+    <string name="vid_foods">nourriture</string>
+    <string name="vid_animal">Animal</string>
+    <string name="Colors">couleurs</string>
+
+
+    <string name="game_score">marquer</string>
+    <string name="game_question">Cest la lettre</string>
+
+
+    <string name="game_result">Le résultat était:</string>
+    <string name="game_num_res">Vous avez obtenu 8 sur 10</string>
+    <string name="game_play_again">Rejouer</string>
+    <string name="game_return">Retourner aux jeux</string>
+
+    <string name="game_msg">Le nombre total de questions est de 12</string>
+
+
+    <string name="about1">Notre produit a été conçu pour offrir une expérience utilisateur simple et efficace, fournir des connaissances de base sur le langage des signes et améliorer et améliorer les fonctionnalités et les fonctionnalités.</string>
+    <string name="about2">Grâce à notre observation, nous avons identifié un problème qui empêche lentreprise datteindre tous ses objectifs et / ou résultats.</string>
+    <string name="about3">Le problème est que lutilisateur nutilise pas fréquemment lapplication en raison du manque de contenu disponible. Comment pouvons-nous améliorer lapplication de lapplication afin que lutilisateur peut bénéficier de lexpérience complète et avec un maximum de connaissances?</string>
+
+    <string name="info1">La langue des signes varie dun pays à lautre. La plupart des pays ont leur propre langue des signes ou partagent une certaine langue des signes, mais avec un dialecte différent.</string>
+    <string name="info2">Chaque signe est composé de cinq composants. Tout changement dans eux va changer toute la signification du signe.</string>
+    <string name="info3">La langue des signes nutilise pas seulement des signes pour communiquer. Il utilise lexpression faciale, le mouvement et la position de la main, les gestes et le langage corporel pour communiquer.</string>
+    <string name="info4">En Grande-Bretagne, la forme la plus commune de la langue des signes est appelée British Sign Language (BSL). BSL possède sa propre structure grammaticale et sa syntaxe, en tant que langue, elle nest pas dépendante ni fortement liée à langlais parlé. BSL est la langue préférée denviron 145 000 personnes au Royaume-Uni (2011).</string>
+
+
+    <string name="english">Anglais</string>
+    <string name="french">Francais</string>
+    <string name="arabic">Arabe</string>
+    <string name="about">Environ</string>
+    <string name="help">Au secours</string>
+    <string name="faq">Questions fréquemment posées</string>
+
+    <string name="title_name">appuyez ici pour commencer</string>
+
+</resources>

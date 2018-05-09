@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/languages"
+        android:icon="@mipmap/lang"
+        android:orderInCategory="100"
+        android:title="Languages"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/info"
+        android:title="@string/info"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

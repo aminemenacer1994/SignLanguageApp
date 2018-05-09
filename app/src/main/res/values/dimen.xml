@@ -1,0 +1,86 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_height">304dp</dimen>
+    <dimen name="md_keylines">16dp</dimen>
+    <dimen name="tile_padding">4dp</dimen>
+    <dimen name="tile_height">200dp</dimen>
+    <dimen name="app_bar_height">256dp</dimen>
+    <dimen name="article_keylines">72dp</dimen>
+    <dimen name="avator_size">40dp</dimen>
+    <dimen name="card_title_height">40dp</dimen>
+    <dimen name="article_titles">20sp</dimen>
+    <dimen name="cards_button_width">48dp</dimen>
+    <dimen name="cards_button_height">48dp</dimen>
+    <dimen name="article_subheading">16sp</dimen>
+    <dimen name="card_image_height">200dp</dimen>
+    <dimen name="list_body">14sp</dimen>
+    <dimen name="navheader_height">222dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="info_icon_h">30dp</dimen>
+    <dimen name="info_icon_w">30dp</dimen>
+    <dimen name="title">80dp</dimen>
+
+    <dimen name="box_w">330dp</dimen>
+    <dimen name="box_h">140dp</dimen>
+
+    <dimen name="board_h">240dp</dimen>
+    <dimen name="board_w">300dp</dimen>
+
+    <dimen name="number_writer">230dp</dimen>
+    <dimen name="player_paint">60dp</dimen>
+
+    <dimen name="pic_question_img_width">100dp</dimen>
+    <dimen name="pic_question_img_height">300dp</dimen>
+
+
+    <dimen name="color">45dp</dimen>
+    <dimen name="text_size">30dp</dimen>
+    <dimen name="float_width">100dp</dimen>
+    <dimen name="float_height">100dp</dimen>
+    <dimen name="redbtn">140dp</dimen>
+
+    <dimen name="box1">170dp</dimen>
+    <dimen name="box11">150dp</dimen>
+    <dimen name="box2">100dp</dimen>
+    <dimen name="box3">100dp</dimen>
+    <dimen name="box4">100dp</dimen>
+
+    <dimen name="title_h">100dp</dimen>
+    <dimen name="title_w">280dp</dimen>
+
+    <dimen name="main_components">750dp</dimen>
+    <dimen name="main_comp">200dp</dimen>
+
+    <dimen name="icon_size">90dp</dimen>
+
+    <dimen name="btn_true_false_w">115dp</dimen>
+    <dimen name="btn_true_false_h">70dp</dimen>
+
+
+    <dimen name="icon_media_h">70dp</dimen>
+    <dimen name="icon_media_w">70dp</dimen>
+
+    <dimen name="paint_icon">65dp</dimen>
+
+    <dimen name="score_text_w">70dp</dimen>
+    <dimen name="score_text_h">50dp</dimen>
+
+    <dimen name="pw">200dp</dimen>
+    <dimen name="ph">200dp</dimen>
+    <dimen name="pmh">40dp</dimen>
+
+    <dimen name="height_rl">160dp</dimen>
+
+    <dimen name="blackboard">350dp</dimen>
+
+    <dimen name="media_controls">20dp</dimen>
+
+
+
+    <dimen name="painting_image_height">200dp</dimen>
+    <dimen name="painting_image_width">250dp</dimen>
+
+
+</resources>
